@@ -1,6 +1,6 @@
 # PedMotion — GitHub Pages Project Website
 
-A static project website featuring eight skeleton animation GIFs and seven SMPL animation GIFs from the supplied **Revision PedWalk.zip**, with mobile-friendly presentation, search/filter controls, a method overview, and reported comparison values.
+A static project website featuring eight skeleton animation GIFs and eight SMPL animation GIFs from the supplied **Revision PedWalk.zip**, with mobile-friendly presentation, search/filter controls, a method overview, and reported comparison values.
 
 ## Publish in GitHub Pages
 
